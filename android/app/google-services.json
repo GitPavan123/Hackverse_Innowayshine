@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443517054861",
+    "project_id": "pnb-metlife-f944c",
+    "storage_bucket": "pnb-metlife-f944c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443517054861:android:1129f6281b9b67071857c4",
+        "android_client_info": {
+          "package_name": "com.example.insurance_Dapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBntwC-Sj88PSqdDhgL3pSzaoCM6IkXoVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443517054861:android:15def14ac9eee55e1857c4",
+        "android_client_info": {
+          "package_name": "com.example.insurance_blockchain_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBntwC-Sj88PSqdDhgL3pSzaoCM6IkXoVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
